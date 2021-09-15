@@ -79,7 +79,7 @@ Ref:
 
 ## Face id 
 
-#### 1. 將第三方jar包加入Android studio專案(請見Ref的第一個連結)
+#### 1. 將第三方jar包加入Android studio專案
 #### 2. 呼叫jar包裡的AipOcr函式進行人臉識別
 ```shell=
  public class AipOcr extends BaseClient { 
